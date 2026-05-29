@@ -16,6 +16,7 @@
   --text--primary--color: #222222;
   --text--secondary--color: #8c8c8c;
   --text--tertiary--color: #d9d9d9;
+  --text--quaternary--color: #ffffff;
 
   --title-weight: 700;
   --text-weight: 400;
@@ -43,4 +44,8 @@ h1 {
   font-family: "Montserrat";
   font-weight: var(--title-weight);
   color: var(--primary-color);
+}
+
+body{
+  font-family: "Montserrat";
 }
